@@ -4,6 +4,10 @@
     margin: 0 auto;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /* header */
 .header {
     background-image: url("../images/main_background.jpg");
@@ -556,6 +560,7 @@
     width: 18px;
     margin-left: 15px;
 }
-.footer_img a{
+
+.footer_img a {
     text-decoration: none;
 }
